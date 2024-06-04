@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashansa Shrestha</h1>
+<h1 align="center">I'm Prashansa Shrestha</h1>
 <h3 align="center">A random girl on the internet!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashansa-shrestha&label=Profile%20views&color=0e75b6&style=flat" alt="prashansa-shrestha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashansa-shrestha" alt="prashansa-shrestha" /></a> </p>
 
 - 📝 Writings [https://medium.com/@prashansa-shrestha](https://medium.com/@prashansa-shrestha)
 
