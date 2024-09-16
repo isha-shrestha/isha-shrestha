@@ -1,10 +1,12 @@
 <h1 align="center">I'm Prashansa Shrestha</h1>
 <h3 align="center">A random girl on the internet!</h3>
-- Currently I am learning **web dev**
+
 
 - 📝 Writings [https://medium.com/@prashansa-shrestha](https://medium.com/@prashansa-shrestha)
 
 - 📫 How to reach me **prashansashrestha1@gmail.com**
+
+- Currently I am learning **web dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
