@@ -1,5 +1,6 @@
 <h1 align="center">I'm Prashansa Shrestha</h1>
 <h3 align="center">A random girl on the internet!</h3>
+- Currently I am learning **web dev**
 
 - 📝 Writings [https://medium.com/@prashansa-shrestha](https://medium.com/@prashansa-shrestha)
 
