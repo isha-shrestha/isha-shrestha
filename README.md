@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **prashansashrestha1@gmail.com**
 
-- Currently I am learning **web dev**
+- Currently I am learning **ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
