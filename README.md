@@ -1,12 +1,12 @@
-<h1 align="center">I'm Prashansa Shrestha</h1>
-<h3 align="center">A random girl on the internet!</h3>
+<h1 align="center">I'm Isha Shrestha</h1>
+<h3 align="center">Civil Engineer, Machine Learning & Programming Enthusiast</h3>
 
 
 - 📝 Writings [https://medium.com/@prashansa-shrestha](https://medium.com/@prashansa-shrestha)
 
-- 📫 How to reach me **prashansashrestha1@gmail.com**
+  - 📫 How to reach me **075bce065.isha@pcampus.edu.np**/**ishaashresthaa@gmail.com**
 
-- Currently I am learning **ML**
+- Currently I am learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
