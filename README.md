@@ -2,7 +2,7 @@
 <h3 align="center">Civil Engineer, Machine Learning & Programming Enthusiast</h3>
 
 
-- 📝 [Linkedin](https://www.linkedin.com/in/isha-shrestha9/)
+- 📝 Reach out to me on [Linkedin](https://www.linkedin.com/in/isha-shrestha9/)
 
 - 📫 How to reach me **075bce065.isha@pcampus.edu.np**/**ishaashresthaa@gmail.com**
 
