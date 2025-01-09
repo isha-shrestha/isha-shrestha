@@ -2,9 +2,9 @@
 <h3 align="center">Civil Engineer, Machine Learning & Programming Enthusiast</h3>
 
 
-- 📝 Writings [https://medium.com/@prashansa-shrestha](https://medium.com/@prashansa-shrestha)
+- 📝 [Linkedin](https://www.linkedin.com/in/isha-shrestha9/)
 
-  - 📫 How to reach me **075bce065.isha@pcampus.edu.np**/**ishaashresthaa@gmail.com**
+- 📫 How to reach me **075bce065.isha@pcampus.edu.np**/**ishaashresthaa@gmail.com**
 
 - Currently I am learning **Machine Learning**
 
